@@ -144,3 +144,4 @@ struct ContentView: View {
 - [React Rendering](https://youtu.be/eBDj0B0HbEQ?si=pXjUkPOQCpi-gAAr)
 - [React Rendering -- Virtual DOM](https://youtu.be/2EbCEluOO9Y?si=5Bum_QtqZUubTF4U)
 - [React Rendering / Optimization](https://youtu.be/1YAWshEGU6g?si=zsDdCUrZj9JCQkKR)
+- [React Fiber Architecture](https://d2.naver.com/helloworld/2690975)
